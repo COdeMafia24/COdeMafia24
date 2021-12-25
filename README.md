@@ -1,7 +1,14 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://github/Uddhav2404">
+  <img align="left" alt="Uddhav's github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
 <a href="https://discord.gg/">
   <img align="left" alt="Uddhav's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
+<a href="https://facebook.com/">
+  <img align="left" alt="Uddhav's fb" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+
 <a href="https://www.linkedin.com/in/">
   <img align="left" alt="Uddhav's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
