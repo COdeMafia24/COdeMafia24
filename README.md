@@ -61,6 +61,8 @@ Other                  1 min           ░░░░░░░░░░░░░�
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<br/>
+[![Uddhav's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Uddhav2404&theme=xcode)](https://github.com/Uddhav2404)
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
