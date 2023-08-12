@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://github/Uddhav2404">
+<!--<a href="https://github/Uddhav2404">
   <img align="left" alt="Uddhav's github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 <a href="https://discord.gg/">
@@ -17,7 +17,7 @@
 </a>
 <a href="https://www.instagram.com/uddhav__2404/">
   <img align="left" alt="Uddhav's Spotify" width="22px" src="https://user-images.githubusercontent.com/79085857/141674406-bbd34b39-4985-4315-8bd8-e7502a1388ad.png" />
-</a>
+</a>-->
 
 
 <br />
