@@ -69,7 +69,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br/>
 
 🏆  ------------------         
-🌸  Completed 0 tasks today           
+🌸  Completed Cpp programs tasks today           
 ✅  Completed 10 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
