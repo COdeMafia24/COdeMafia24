@@ -65,7 +65,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## 📈Github Stats
 <p style="display:flex; align=center; justify-content:center; ">
-<img src="https://github-readme-stats.vercel.app/api?username=COdeMafia24&theme=midnight-purple" style="margin-right:4px;"><img src="https://streak-stats.demolab.com/?user=COdeMafia24&theme=holi-theme">
+<img src="https://github-readme-stats.vercel.app/api?username=COdeMafia24&theme=midnight-purple" style="margin-right:2px;">
+  <img src="https://streak-stats.demolab.com/?user=COdeMafia24&theme=holi-theme">
 
 </p>
 
