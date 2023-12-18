@@ -69,7 +69,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img src="https://streak-stats.demolab.com/?user=COdeMafia24&theme=holi-theme">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=COdeMafia24&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 [COdeMafia24's github activity graph]
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=COdeMafia247&theme=tokyo-night)](https://github.com/COdeMafia24/github-readme-activity-graph">
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=COdeMafia247&theme=tokyo-night">
 </p>
 
 
