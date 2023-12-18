@@ -67,7 +67,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p style="display:flex; align=center; justify-content:center; ">
 <img src="https://github-readme-stats.vercel.app/api?username=COdeMafia24&theme=midnight-purple" style="margin-right:2px;">
   <img src="https://streak-stats.demolab.com/?user=COdeMafia24&theme=holi-theme">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushhhxyz&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=COdeMafia24&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 
 </p>
 
