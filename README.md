@@ -70,7 +70,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=COdeMafia24&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAZHARMIK&langs_count=10"> </p>
 
 
 <img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
