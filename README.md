@@ -1,28 +1,28 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!--<a href="https://github/Uddhav2404">
-  <img align="left" alt="Uddhav's github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+<!--<a href="https://github/COdeMafia24">
+  <img align="left" alt="mafia's github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 <a href="https://discord.gg/">
-  <img align="left" alt="Uddhav's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="mafia's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://facebook.com/">
-  <img align="left" alt="Uddhav's fb" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="mafia's fb" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/">
-  <img align="left" alt="Uddhav's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="mafia's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/">
-  <img align="left" alt="Uddhav's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="mafia's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://www.instagram.com/uddhav__2404/">
-  <img align="left" alt="Uddhav's Spotify" width="22px" src="https://user-images.githubusercontent.com/79085857/141674406-bbd34b39-4985-4315-8bd8-e7502a1388ad.png" />
+<a href="https://www.instagram.com//">
+  <img align="left" alt="mafia's Spotify" width="22px" src="https://user-images.githubusercontent.com/79085857/141674406-bbd34b39-4985-4315-8bd8-e7502a1388ad.png" />
 </a>-->
 
 
 <br />
 <br/>
-hi, i'm COdeMafia_24 , a passionate self-taught full stack Android developer and a freelance software developer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm COdeMafia_24 , a passionate self-taught <!--full stack Android developer and a freelance --> software developer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
