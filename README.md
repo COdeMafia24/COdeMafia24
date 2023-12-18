@@ -62,7 +62,15 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br/>
-[![COdeMafia24's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=COdeMafia24&theme=xcode)](https://github.com/COdeMafia24)
+
+## Github Stats
+<p style="display:flex; align=center; justify-content:center; ">
+<img src="https://github-readme-stats.vercel.app/api?username=COdeMafia24&theme=midnight-purple" style="margin-right:4px;">
+<img src="https://streak-stats.demolab.com/?user=COdeMafia24&theme=holi-theme">
+</p>
+
+
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
