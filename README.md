@@ -65,9 +65,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## 📈Github Stats
 <p style="display:flex; align=center; justify-content:center; ">
-<img src="https://github-readme-stats.vercel.app/api?username=Mafia24&theme=midnight-purple" style="margin-right:2px;">
-  <img src="https://streak-stats.demolab.com/?user=Mafia24&theme=holi-theme">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafia24&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=Mafia2404&theme=midnight-purple" style="margin-right:2px;">
+  <img src="https://streak-stats.demolab.com/?user=Mafia2404&theme=holi-theme">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafia2404&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 
 </p>
 
