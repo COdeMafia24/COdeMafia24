@@ -1,4 +1,4 @@
-### Hey,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--<a href="https://github/Mafia24">
   <img align="left" alt="mafia's github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
@@ -22,7 +22,7 @@
 
 <br />
 <br/>
-hi, i'm Mafia_24 , a passionate self-taught <!--full stack Android developer and a freelance --> software developer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm Mafia_2404 , a passionate self-taught <!--full stack Android developer and a freelance --> software developer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
