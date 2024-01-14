@@ -1,5 +1,5 @@
 ###  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!--<a href="https://github/COdeMafia24">
+<!--<a href="https://github/Mafia24">
   <img align="left" alt="mafia's github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 <a href="https://discord.gg/">
