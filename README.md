@@ -29,7 +29,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Uddhav2404/Uddhav2404/master/code.gif?raw=true" width="500" height="320" />
   
--🔭 I’m currently Learning  CPP<br/>
+-🔭 I’m currently Learning  DSA<br/>
 - 💼 any freelance work? do reach, [email]() :)
 - 💬 ask me about anything, i am happy to help;
 
