@@ -89,8 +89,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🏆  ------------------         
 🌸  Completed Cpp programs tasks today           
-✅  Completed 10 tasks so far           
-⏳  Longest streak is 10 days
+✅  Completed 12 tasks so far           
+⏳  Longest streak is 21 days
 <!-- TODO-IST:END -->
 
 
