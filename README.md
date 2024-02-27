@@ -89,7 +89,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🏆  ------------------         
 🌸  Completed 1 Cpp program on Coding Ninjas today           
-✅  streak day  23  so far           
+✅  streak day  24  so far           
 ⏳  Longest streak is 21 days
 <!-- TODO-IST:END -->
 
