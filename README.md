@@ -87,9 +87,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:START -->
 <br/>
 
-🏆  2 leetcode problems          
+🏆  1 leetcode problems          
 🌸  Completed 1 DSA problem and 5 MCQ ques  on Coding Ninjas today           
-✅  streak day  04  so far           
+✅  streak day  05  so far           
 ⏳  Longest streak is 27 days
 <!-- TODO-IST:END -->
 
