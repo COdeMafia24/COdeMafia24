@@ -1,4 +1,5 @@
 ### Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mafia2404&label=Profile%20views&color=0e75b6&style=flat" alt="Mafia2404" /> </p>
 <!--<a href="https://github/Mafia24">
   <img align="left" alt="mafia's github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
